@@ -1,0 +1,10 @@
+body{padding: 0%; margin: 0%; }
+#wrap{border: 2px solid red; width: 100%; height: 500px;}
+#s1, #s2, #s3{border: 1px solid green; padding: 1%; margin: .4% 4.6% .4% 4.6%;
+float: left; width: 20%; height: 350px; }
+li{display: inline; list-style-type: none; padding: 5px; border:2px solid blue; 
+color: gray; filter: brightness(150%); float: right;}
+ul{margin: 15px 5px;  }
+nav{border: 3px solid #009688; background: black; float: right; width: 100%;
+}
+
